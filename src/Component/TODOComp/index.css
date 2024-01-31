@@ -1,0 +1,42 @@
+.form-section{
+    display: flex;
+    flex-direction: column;
+}
+
+.title-date{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+    padding: 10px;
+
+}
+.days-in-row{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+.days-box{
+    border: 2px solid black;
+    padding: 5px;
+    border-radius: 10px;
+    background-color: #dbd9d9;
+}
+.active-day{
+    background-color: rgb(92, 89, 89);
+}
+
+.apps{
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+}
+
+button{
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 7px;
+}

@@ -1,0 +1,11 @@
+.list-element{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    padding-right: 50px ;
+    align-items: baseline;
+    border: 2px solid black;
+    background-color:rgb(220, 217, 217);
+    padding-left: 10px;
+}
+
