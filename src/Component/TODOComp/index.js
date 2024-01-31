@@ -5,7 +5,7 @@ import './index.css'
 
 class TODOComp extends Component{
     state={
-        data:[{id:1,year:2024,month:0,date:31,day:3,title:"Title 1",des:"jegevjweg"}],
+        data:[],
         title:'',
         des:'',
         date:'',
